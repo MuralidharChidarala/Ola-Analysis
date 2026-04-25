@@ -110,7 +110,7 @@ To deliver an interactive visual tool that:
 ![image](https://github.com/MuralidharChidarala/Ola-Analysis/blob/b3750464f2dea66bd214ab3e044bc9dd1e780319/Screenshot%202026-04-24%20163544.png)
 
 > Vehicle Type 
-![image](https://github.com/MuralidharChidarala/Ola-Analysis/blob/b3750464f2dea66bd214ab3e044bc9dd1e780319/Screenshot%202026-04-24%20163544.png)
+![image](https://github.com/MuralidharChidarala/Ola-Analysis/blob/64d99a9460f7eec4d1ac08e255eaa704cf51617c/img2.png)
 > Revenue 
 ![image](https://github.com/MuralidharChidarala/Ola-Analysis/blob/b3750464f2dea66bd214ab3e044bc9dd1e780319/Screenshot%202026-04-24%20163544.png)
 > Cancellation 
