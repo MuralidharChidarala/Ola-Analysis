@@ -106,14 +106,17 @@ To deliver an interactive visual tool that:
 ---
 
 ## 📸 Screenshots / Demo
-> Overall
+## Overall
 ![image](https://github.com/MuralidharChidarala/Ola-Analysis/blob/b3750464f2dea66bd214ab3e044bc9dd1e780319/Screenshot%202026-04-24%20163544.png)
 
-> Vehicle Type 
+## Vehicle Type 
 ![image](https://github.com/MuralidharChidarala/Ola-Analysis/blob/64d99a9460f7eec4d1ac08e255eaa704cf51617c/img2.png)
-> Revenue 
+
+## Revenue 
 ![image](https://github.com/MuralidharChidarala/Ola-Analysis/blob/317b6188e6122100c366e8e9df4df9e3391bc8a5/img3.png)
-> Cancellation 
-![image](https://github.com/MuralidharChidarala/Ola-Analysis/blob/b3750464f2dea66bd214ab3e044bc9dd1e780319/Screenshot%202026-04-24%20163544.png)
-> Rating 
+
+## Cancellation 
+![image](https://github.com/MuralidharChidarala/Ola-Analysis/blob/08958adbba33f98a3749d8836dd7f070ab89feaf/img4.png)
+
+## Rating 
 ![image](https://github.com/MuralidharChidarala/Ola-Analysis/blob/fc7fc1196433499147f4971233cb297ee082c2ec/img1.png)
